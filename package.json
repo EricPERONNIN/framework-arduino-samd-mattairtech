@@ -1,0 +1,6 @@
+{
+    "name": "framework-arduino-samd-mattairtech",
+    "description": "Arduino Wiring-based Framework (atsam Core)",
+    "url": "https://github.com/EricPERONNIN/framework-arduino-samd-mattairtech",
+    "version": "2.0.0"
+}
